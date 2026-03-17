@@ -1,0 +1,14 @@
+NET "grant[3]" LOC = P165;
+NET "grant[2]" LOC = P167;
+NET "grant[1]" LOC = P163;
+NET "grant[0]" LOC = P164;
+NET "request[3]" LOC = P205;
+NET "request[2]" LOC = P206;
+NET "request[1]" LOC = P203;
+NET "request[0]" LOC = P200;
+NET "token[3]" LOC = P179;
+NET "token[2]" LOC = P180;
+NET "token[1]" LOC = P177;
+NET "token[0]" LOC = P178;
+NET "clk" LOC = P132;
+NET "reset" LOC = P194;
